@@ -1,20 +1,27 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=ABHAY%20SINGH%20YADAV&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20•%20Java%20Developer%20•%20Deep%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=ABHAY%20SINGH%20YADAV&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Architect%20•%20Problem%20Solver&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Java+Developer+%E2%98%95;Deep+Learning+Engineer+%F0%9F%A7%A0;Machine+Learning+Enthusiast+%F0%9F%A4%96;DSA+Problem+Solver+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Deep+Learning+Engineer+%F0%9F%A7%A0;Competitive+Programmer+%F0%9F%8F%86;Building+AI-Powered+Solutions+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%8C%8D;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/Abhay9889"><img src="https://img.shields.io/badge/GitHub-Abhay9889-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/aditya_50"><img src="https://img.shields.io/badge/Instagram-aditya__50-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Abhay9889&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Abhay9889?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440&color=88C0D0)](https://github.com/Abhay9889)
+  [![GitHub stars](https://img.shields.io/github/stars/Abhay9889?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440&color=88C0D0)](https://github.com/Abhay9889)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Abhay9889&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/Abhay9889)
+  
+  <br>
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya_50)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  
 </div>
 
 <br>
@@ -23,669 +30,555 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35"/> ABOUT ME
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  ABOUT ME
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <br>
 
-java
-public class AbhaySinghYadav extends Developer {
+```java
+public class AbhaySinghYadav extends Developer implements AI_Engineer {
     
-    private final String fullName = "Abhay Singh Yadav";
-    private final String location = "India 🇮🇳";
-    private final String education = "Computer Science Student";
-    private final String passion = "AI & Software Engineering";
-    
-    private final Map<String, String[]> expertise = Map.of(
-        "Development", new String[]{
-            "Java Backend Development",
-            "Android Application Development",
-            "RESTful API Design & Integration"
-        },
-        "AI_ML", new String[]{
-            "Deep Learning & Neural Networks",
-            "Computer Vision Applications",
-            "Machine Learning Research"
-        },
-        "Core_CS", new String[]{
-            "Data Structures & Algorithms",
-            "Problem Solving & Optimization",
-            "System Design & Architecture"
-        }
-    );
+    private String name = "Abhay Singh Yadav";
+    private String location = "India 🇮🇳";
+    private String role = "Software Engineer & AI Researcher";
+    private String[] currentFocus = {
+        "Building scalable backend systems",
+        "Training cutting-edge neural networks",
+        "Solving complex algorithmic challenges",
+        "Creating intelligent mobile applications"
+    };
     
     @Override
-    public void displayMission() {
-        System.out.println("🎯 Mission:");
-        System.out.println("→ Building intelligent systems that matter");
-        System.out.println("→ Solving real-world problems with code");
-        System.out.println("→ Contributing to the future of AI & technology");
-        System.out.println("→ Never stop learning, never stop growing 🚀");
+    public Map<String, List<String>> getSkillset() {
+        return Map.of(
+            "Languages", List.of("Java", "Python", "C++", "Kotlin", "JavaScript"),
+            "Backend", List.of("Spring Boot", "REST APIs", "Microservices", "MySQL"),
+            "Mobile", List.of("Android", "Kotlin", "XML", "MVVM", "Room DB"),
+            "AI/ML", List.of("TensorFlow", "Keras", "OpenCV", "CNN", "RNN", "NLP"),
+            "Tools", List.of("Git", "Docker", "Linux", "AWS", "Google Colab")
+        );
+    }
+    
+    @Override
+    public String getCurrentMission() {
+        return "🎯 Building intelligent systems that solve real-world problems\n" +
+               "💡 Contributing to open-source AI & software communities\n" +
+               "🚀 Pushing the boundaries of what's possible with code\n" +
+               "📚 Never stop learning, never stop growing";
     }
 }
-
-
-<br>
-
-### 🌟 WHO I AM
-
-I'm **Abhay Singh Yadav**, a passionate **Computer Science student** from India, driven by the vision of building **intelligent software systems** that make a real-world impact. My journey revolves around the perfect blend of **software engineering excellence** and **cutting-edge artificial intelligence**.
-
-With a strong foundation in **Java development**, expertise in **Data Structures & Algorithms**, and an ever-growing passion for **Deep Learning**, I'm constantly pushing the boundaries of what's possible. I believe in writing **clean, efficient code** that not only solves problems but does so elegantly.
-
-🎯 **My Philosophy**: *Code with purpose, learn with passion, build with precision.*
+```
 
 <br clear="right"/>
 
-<br>
+### 🌟 WHO I AM
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"/> WHAT I DO
+I'm a **passionate Computer Science student** and **software engineer** from India, dedicated to crafting **intelligent, scalable solutions** that make a meaningful impact. My expertise spans across **full-stack development**, **artificial intelligence**, and **competitive programming**.
 
-<div align="center">
+With a **strong foundation in Java** and expertise in **Data Structures & Algorithms**, coupled with hands-on experience in **Deep Learning** and **Computer Vision**, I bridge the gap between traditional software engineering and cutting-edge AI.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+> 💭 *"The best way to predict the future is to invent it."* - Alan Kay
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"/> **SOFTWARE DEVELOPMENT**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
-
-yaml
-Backend Engineering:
-  ├─ Building robust Java applications
-  ├─ Designing RESTful APIs with Spring Boot
-  ├─ Database design & optimization (MySQL)
-  └─ Microservices architecture
-
-Android Development:
-  ├─ Native Android apps with Kotlin/Java
-  ├─ Modern UI/UX with XML layouts
-  ├─ API integration & data persistence
-  └─ Performance optimization
-
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25"/> **AI & MACHINE LEARNING**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
-
-yaml
-Deep Learning:
-  ├─ Neural Network architectures (CNN, RNN, ANN)
-  ├─ Model training & optimization
-  ├─ Transfer learning & fine-tuning
-  └─ Production deployment
-
-Computer Vision:
-  ├─ Image classification & detection
-  ├─ Object recognition systems
-  ├─ OpenCV applications
-  └─ Real-time processing
-
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="25"/> **PROBLEM SOLVING**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
-
-yaml
-DSA Mastery:
-  ├─ 500+ problems solved across platforms
-  ├─ Advanced algorithmic techniques
-  ├─ Time & space optimization
-  └─ Competitive programming
-
-Focus Areas:
-  ├─ Dynamic Programming
-  ├─ Graph Algorithms
-  ├─ Tree Traversals
-  └─ System Design
-
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="25"/> **CONTINUOUS LEARNING**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px;">
-
-yaml
-Current Focus:
-  ├─ Advanced Deep Learning techniques
-  ├─ Large Language Models (LLMs)
-  ├─ Cloud computing & deployment
-  └─ Open-source contributions
-
-Research Areas:
-  ├─ Neural Architecture Search
-  ├─ Model compression
-  ├─ Edge AI deployment
-  └─ Explainable AI
-
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
+---
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"/> TECH STACK
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  TECH STACK & EXPERTISE
+</h2>
 
 <div align="center">
 
-### 👨‍💻 PROGRAMMING LANGUAGES
+### 💻 PROGRAMMING LANGUAGES
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,kotlin,js,html,css" />
+</p>
 
-### 🧠 MACHINE LEARNING & DEEP LEARNING
+### 🤖 AI/ML & DATA SCIENCE
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
+</p>
 
 ### 🔧 FRAMEWORKS & BACKEND
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,hibernate" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="48" height="48"/>
+</p>
+
+### 📱 MOBILE & FRONTEND
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,react,nodejs" />
+</p>
 
 ### 🛠️ TOOLS & PLATFORMS
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,linux,docker,aws" />
+</p>
 
 </div>
 
 <br>
 
-## 🧬 DEEP LEARNING & AI RESEARCH
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="80">
-</div>
-
-<br>
-
-python
-class DeepLearningEngineer:
-    def __init__(self):
-        self.name = "Abhay Singh Yadav"
-        self.current_research = {
-            "Neural Networks": [
-                "Convolutional Neural Networks (CNN)",
-                "Recurrent Neural Networks (RNN)",
-                "Artificial Neural Networks (ANN)",
-                "Transfer Learning & Fine-tuning"
-            ],
-            "Computer Vision": [
-                "Image Classification & Recognition",
-                "Object Detection (YOLO, R-CNN)",
-                "Facial Recognition Systems",
-                "Real-time Video Processing"
-            ],
-            "Tools & Frameworks": [
-                "TensorFlow 2.x",
-                "Keras Sequential & Functional API",
-                "OpenCV for Computer Vision",
-                "Google Colab for Training"
-            ]
-        }
-        
-    def current_projects(self):
-        return {
-            "🎯 Active": "Building CNN model for image classification",
-            "🔬 Research": "Exploring RNN/LSTM for sequence prediction",
-            "📱 Mobile AI": "Deploying ML models on Android devices",
-            "🚀 Goal": "Contribute to open-source AI projects"
-        }
-    
-    def tech_stack(self):
-        frameworks = ["TensorFlow", "Keras", "OpenCV"]
-        libraries = ["NumPy", "Pandas", "Matplotlib", "Seaborn"]
-        tools = ["Google Colab", "Jupyter", "Android Studio"]
-        
-        return {
-            "frameworks": frameworks,
-            "libraries": libraries,
-            "tools": tools,
-            "specialization": "Deep Learning & Computer Vision",
-            "api_integration": "ML Model APIs for production deployment"
-        }
-
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 CURRENT FOCUS
-
-- 🧪 Experimenting with **CNN architectures** for computer vision
-- 🔄 Understanding **RNN/LSTM** for sequence modeling
-- 📊 Building **end-to-end ML pipelines** with TensorFlow
-- 🎨 Implementing **transfer learning** techniques
-- 📈 Optimizing **model performance** and hyperparameter tuning
-- 📱 Deploying **ML models on Android** devices
-- 🌐 Creating **ML-powered REST APIs**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 ML EXPERTISE
-
-- ✅ **Supervised Learning** algorithms
-- ✅ **Unsupervised Learning** techniques
-- ✅ **Neural Network** fundamentals
-- ✅ **Computer Vision** with OpenCV
-- ✅ **Feature Engineering** & preprocessing
-- ✅ **Model Evaluation** & validation
-- ✅ **Data Visualization** with Seaborn/Matplotlib
-- ✅ **API Integration** for ML models
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 💡 DATA STRUCTURES & ALGORITHMS
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="100">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="100">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" width="100">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="100">
-</div>
-
-<br>
-
-cpp
-class DSAMaster {
-private:
-    struct Expertise {
-        string topic;
-        int proficiency; // 1-100
-        vector<string> concepts;
-    };
-    
-    vector<Expertise> mastered_domains = {
-        {"Arrays & Strings", 95, {"Two Pointers", "Sliding Window", "Kadane's Algorithm"}},
-        {"Linked Lists", 90, {"Reversal", "Fast-Slow Pointer", "Cycle Detection"}},
-        {"Trees & Graphs", 88, {"DFS/BFS", "Binary Search Trees", "Graph Traversal"}},
-        {"Dynamic Programming", 85, {"Memoization", "Tabulation", "State Optimization"}},
-        {"Sorting & Searching", 92, {"QuickSort", "MergeSort", "Binary Search"}},
-        {"Recursion & Backtracking", 87, {"N-Queens", "Sudoku Solver", "Permutations"}},
-        {"Stacks & Queues", 93, {"Monotonic Stack", "Priority Queue", "Deque"}},
-        {"Bit Manipulation", 80, {"XOR Tricks", "Bitmasking", "Power of Two"}}
-    };
-    
-public:
-    void solve_problem(string problem_name) {
-        cout << "🎯 Analyzing: " << problem_name << endl;
-        cout << "⚡ Designing optimal solution..." << endl;
-        cout << "💻 Implementing efficient algorithm..." << endl;
-        cout << "✅ Problem solved! Time: O(n log n) | Space: O(1)" << endl;
-        cout << "🚀 Optimized for production!" << endl;
-    }
-    
-    string get_philosophy() {
-        return "Write code that humans can understand, optimize for machines to execute 💪";
-    }
-};
-
-
-<br>
-
-<div align="center">
-
-### 📊 DSA PROFICIENCY MATRIX
-
-| 🏗️ DATA STRUCTURE | 💪 MASTERY LEVEL | 🎯 PROBLEMS SOLVED | ⚡ COMPLEXITY ANALYSIS |
-|-------------------|-----------------|-------------------|----------------------|
-| Arrays & Strings | ![](https://img.shields.io/badge/Expert-95%25-success?style=flat-square) | 150+ | O(n) to O(n log n) |
-| Linked Lists | ![](https://img.shields.io/badge/Advanced-90%25-brightgreen?style=flat-square) | 80+ | O(1) to O(n) |
-| Trees & Graphs | ![](https://img.shields.io/badge/Advanced-88%25-green?style=flat-square) | 120+ | O(V+E), O(n log n) |
-| Dynamic Programming | ![](https://img.shields.io/badge/Intermediate-85%25-yellowgreen?style=flat-square) | 90+ | O(n²) to O(n) |
-| Sorting & Searching | ![](https://img.shields.io/badge/Expert-92%25-success?style=flat-square) | 70+ | O(log n) to O(n log n) |
-| Stacks & Queues | ![](https://img.shields.io/badge/Expert-93%25-success?style=flat-square) | 65+ | O(1) to O(n) |
-| Recursion & Backtracking | ![](https://img.shields.io/badge/Advanced-87%25-green?style=flat-square) | 55+ | O(2ⁿ) optimized |
-| Bit Manipulation | ![](https://img.shields.io/badge/Intermediate-80%25-yellow?style=flat-square) | 40+ | O(1) to O(log n) |
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="60">
-  
-  **"The art of programming is the art of organizing complexity."** - *Edsger W. Dijkstra*
-</div>
-
-<br>
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay9889&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay9889&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea&sideLabels=667eea&sideNums=ffffff&dates=a9b3c1" width="49%" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay9889&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&langs_count=10&hide=html,css" width="49%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay9889&custom_title=Contribution%20Graph&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true&theme=tokyo-night" width="49%" alt="Activity Graph"/>
-</div>
-
-<br>
-
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay9889&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-## 🐍 CONTRIBUTION GRAPH
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay9889/Abhay9889/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay9889/Abhay9889/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhay9889/Abhay9889/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
-
-## 💼 CORE COMPETENCIES
-
-<div align="center">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  WHAT I DO
+</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80"><br>
-  <h3>🎓 COMPUTER SCIENCE</h3>
-  <br>
-  <p align="left">
-  <b>Core Fundamentals:</b><br>
-  • Data Structures & Algorithms<br>
-  • Object-Oriented Programming<br>
-  • Database Management Systems<br>
-  • Operating Systems Concepts<br>
-  • Software Design Patterns<br>
-  • Competitive Programming<br><br>
-  
-  <b>Problem Solving:</b><br>
-  • LeetCode: 300+ Problems<br>
-  • HackerRank: 5⭐ Java<br>
-  • CodeChef: 3⭐ Rating<br>
-  • Time/Space Optimization Expert
-  </p>
+<td width="50%" valign="top">
+
+### 🎯 SOFTWARE ENGINEERING
+
+```yaml
+Backend Development:
+  ├─ 🏗️ Spring Boot microservices
+  ├─ 🔌 RESTful API design & development
+  ├─ 💾 Database architecture (MySQL, PostgreSQL)
+  ├─ 🔐 Authentication & authorization (JWT, OAuth)
+  └─ 📊 Performance optimization & scaling
+
+Mobile Development:
+  ├─ 📱 Native Android (Kotlin/Java)
+  ├─ 🎨 Material Design & modern UI/UX
+  ├─ 🏛️ MVVM & Clean Architecture
+  ├─ 🔄 Reactive programming (RxJava, Coroutines)
+  └─ 🌐 API integration & offline-first apps
+```
+
 </td>
-<td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"><br>
-  <h3>☕ BACKEND & MOBILE DEV</h3>
-  <br>
-  <p align="left">
-  <b>Backend Engineering:</b><br>
-  • Spring Boot Framework<br>
-  • RESTful API Design<br>
-  • MySQL Database Design<br>
-  • Microservices Architecture<br>
-  • Server-Side Logic<br>
-  • API Security & Auth<br><br>
-  
-  <b>Android Development:</b><br>
-  • Native Android (Kotlin/Java)<br>
-  • Modern UI with XML<br>
-  • MVVM Architecture<br>
-  • Room Database & API Integration
-  </p>
-</td>
-<td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="80"><br>
-  <h3>🤖 AI/ML ENGINEERING</h3>
-  <br>
-  <p align="left">
-  <b>Deep Learning:</b><br>
-  • Neural Networks (CNN/RNN/ANN)<br>
-  • TensorFlow & Keras Mastery<br>
-  • Model Training & Optimization<br>
-  • Transfer Learning<br>
-  • Hyperparameter Tuning<br>
-  • Production Deployment<br><br>
-  
-  <b>Computer Vision:</b><br>
-  • OpenCV Applications<br>
-  • Image Classification<br>
-  • Object Detection Systems<br>
-  • Real-time Processing
-  </p>
+<td width="50%" valign="top">
+
+### 🧠 ARTIFICIAL INTELLIGENCE
+
+```yaml
+Deep Learning:
+  ├─ 🔬 Neural network architectures (CNN, RNN, LSTM, GAN)
+  ├─ 📷 Computer Vision & image processing
+  ├─ 🗣️ Natural Language Processing (NLP)
+  ├─ 🎯 Transfer learning & fine-tuning
+  └─ 🚀 Model deployment & optimization
+
+Machine Learning:
+  ├─ 📊 Supervised & unsupervised learning
+  ├─ 🎲 Feature engineering & selection
+  ├─ 📈 Model evaluation & validation
+  ├─ ⚙️ Hyperparameter tuning
+  └─ 🔍 Exploratory data analysis
+```
+
 </td>
 </tr>
 </table>
 
+<br>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  GITHUB ANALYTICS
+</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhay9889&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay9889&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 </div>
 
 <br>
 
-## 💬 DEVELOPER WISDOM
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up" alt="Dev Quote"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay9889&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10&hide=html,css,scss" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay9889&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </div>
 
 <br>
 
-## ⚡ QUICK FACTS
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhay9889&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  🐍 CONTRIBUTION SNAKE
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhay9889/Abhay9889/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhay9889/Abhay9889/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhay9889/Abhay9889/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  💡 DATA STRUCTURES & ALGORITHMS
+</h2>
 
 <div align="center">
 
-<table width="90%">
-<tr>
-<td width="60%" valign="top">
-
-javascript
-const abhaySinghYadav = {
-    fullName: "Abhay Singh Yadav",
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    education: "Computer Science Student",
-    
-    languages: {
-        expert: ["Java", "Python", "C++"],
-        proficient: ["Kotlin", "JavaScript", "C"],
-        familiar: ["HTML", "CSS", "XML"]
-    },
-    
-    technologies: {
-        backend: {
-            java: ["Spring Boot", "Hibernate", "REST APIs"],
-            databases: ["MySQL", "SQL", "Room DB"]
-        },
-        mobile: {
-            android: ["Kotlin", "Java", "XML Layouts"],
-            architecture: ["MVVM", "Clean Architecture"]
-        },
-        ai_ml: {
-            frameworks: ["TensorFlow", "Keras", "OpenCV"],
-            libraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
-            focus: ["Deep Learning", "Computer Vision", "Neural Networks"]
-        },
-        tools: {
-            ides: ["IntelliJ IDEA", "Android Studio", "VS Code"],
-            ml_tools: ["Google Colab", "Jupyter Notebook"],
-            version_control: ["Git", "GitHub"]
+```python
+class CompetitiveProgrammer:
+    def __init__(self):
+        self.platforms = {
+            'LeetCode': {'problems': 300, 'rating': 'Guardian', 'badge': '⭐⭐⭐'},
+            'CodeChef': {'problems': 150, 'rating': '3★', 'badge': '🏆'},
+            'HackerRank': {'problems': 200, 'rating': '5★ Java', 'badge': '⚡'},
+            'Codeforces': {'problems': 100, 'rating': 'Specialist', 'badge': '🎯'}
         }
+        
+        self.expertise = {
+            'Arrays & Strings': 95,
+            'Dynamic Programming': 85,
+            'Trees & Graphs': 88,
+            'Sorting & Searching': 92,
+            'Linked Lists': 90,
+            'Stacks & Queues': 93,
+            'Recursion & Backtracking': 87,
+            'Bit Manipulation': 80
+        }
+    
+    def solve(self, problem):
+        steps = [
+            '🎯 Understanding the problem',
+            '💡 Designing optimal approach',
+            '⚡ Analyzing time & space complexity',
+            '💻 Writing clean, efficient code',
+            '✅ Testing edge cases',
+            '🚀 Optimizing for production'
+        ]
+        return '\n'.join(steps)
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🏗️ **Data Structure** | 💪 **Proficiency** | 🎯 **Problems** | ⚡ **Best Complexity** |
+|:---------------------:|:------------------:|:---------------:|:---------------------:|
+| Arrays & Strings | ![95%](https://progress-bar.dev/95?color=2ecc71&width=120) | 150+ | O(n) |
+| Dynamic Programming | ![85%](https://progress-bar.dev/85?color=3498db&width=120) | 90+ | O(n²) → O(n) |
+| Trees & Graphs | ![88%](https://progress-bar.dev/88?color=9b59b6&width=120) | 120+ | O(V+E) |
+| Sorting & Searching | ![92%](https://progress-bar.dev/92?color=e67e22&width=120) | 70+ | O(log n) |
+| Linked Lists | ![90%](https://progress-bar.dev/90?color=1abc9c&width=120) | 80+ | O(1) |
+| Stacks & Queues | ![93%](https://progress-bar.dev/93?color=e74c3c&width=120) | 65+ | O(1) |
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  🧠 DEEP LEARNING & AI RESEARCH
+</h2>
+
+<div align="center">
+
+```python
+class DeepLearningEngineer:
+    """Building intelligent systems that learn and adapt"""
+    
+    def __init__(self):
+        self.research_areas = {
+            'Computer Vision': {
+                'models': ['CNN', 'YOLO', 'ResNet', 'MobileNet'],
+                'applications': ['Image Classification', 'Object Detection', 
+                               'Face Recognition', 'Real-time Processing']
+            },
+            'Natural Language Processing': {
+                'models': ['RNN', 'LSTM', 'Transformers', 'BERT'],
+                'applications': ['Text Classification', 'Sentiment Analysis',
+                               'Language Translation', 'Named Entity Recognition']
+            },
+            'Neural Networks': {
+                'architectures': ['ANN', 'CNN', 'RNN', 'GAN', 'Autoencoders'],
+                'techniques': ['Transfer Learning', 'Fine-tuning', 
+                             'Regularization', 'Optimization']
+            }
+        }
+        
+        self.tech_stack = {
+            'Frameworks': ['TensorFlow 2.x', 'Keras', 'PyTorch'],
+            'Tools': ['OpenCV', 'Scikit-learn', 'Pandas', 'NumPy'],
+            'Deployment': ['TensorFlow Lite', 'ONNX', 'Docker', 'Flask APIs']
+        }
+    
+    def current_projects(self):
+        return {
+            '🎯 Active': 'Building CNN-based image recognition system',
+            '🔬 Research': 'Exploring attention mechanisms in NLP',
+            '📱 Mobile AI': 'Deploying lightweight models on Android',
+            '🚀 Goal': 'Contributing to open-source AI frameworks'
+        }
+```
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  ⚡ QUICK STATS
+</h2>
+
+<div align="center">
+
+```javascript
+const abhayStats = {
+    name: "Abhay Singh Yadav",
+    role: "Software Engineer & AI Researcher",
+    location: "India 🇮🇳",
+    experience: {
+        backend: "3+ years with Java & Spring Boot",
+        mobile: "2+ years Android development",
+        ai_ml: "2+ years Deep Learning & Computer Vision",
+        dsa: "500+ problems solved across platforms"
     },
-    
-    currentFocus: [
-        "🧠 Mastering Deep Learning architectures",
-        "📱 Building intelligent Android applications",
-        "☕ Developing scalable backend systems",
-        "💡 Contributing to open-source AI projects"
+    currentlyLearning: [
+        "Advanced System Design",
+        "Distributed Systems",
+        "Large Language Models (LLMs)",
+        "Cloud Architecture (AWS/Azure)"
     ],
-    
-    goals_2025: [
-        "Deploy ML models in production",
-        "Contribute to major open-source projects",
-        "Build a portfolio of 10+ AI projects",
-        "Master system design patterns"
+    hobbies: [
+        "☕ Coffee enthusiast",
+        "📚 Tech blog reader",
+        "🎮 Chess player",
+        "🏃 Fitness freak"
     ],
-    
-    funFact: "I solve DSA problems for breakfast ☕ and train neural networks for dinner 🧠",
-    motto: "Code. Learn. Build. Repeat. 🔄"
+    funFact: "I debug code faster with good coffee ☕",
+    motto: "Code with passion, build with purpose 🚀"
 };
 
+console.log(abhayStats);
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 WEEKLY CODING ACTIVITY
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  🏆 ACHIEVEMENTS & CERTIFICATIONS
+</h2>
+
+<div align="center">
+
+| 🎯 Achievement | 📅 Year | 🏅 Badge |
+|:--------------|:-------:|:--------:|
+| **5★ Java** on HackerRank | 2024 | ⭐⭐⭐⭐⭐ |
+| **3★ Rating** on CodeChef | 2024 | 🏆 |
+| **Top Contributor** in Open Source | 2024 | 🌟 |
+| **300+ Problems** on LeetCode | 2024 | 💻 |
+| **Deep Learning Specialization** | 2023 | 🎓 |
+| **Android Developer Certification** | 2023 | 📱 |
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  💼 CORE COMPETENCIES
+</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🎓 Computer Science
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60">
+
+**Fundamentals**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Software Design Patterns
+- System Design & Architecture
+
+**Problem Solving**
+- LeetCode: 300+ ⭐
+- HackerRank: 5★ Java
+- CodeChef: 3★ Rating
+- Codeforces: Specialist
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="33%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="150">
+### ☕ Backend & Mobile
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60">
+
+**Backend Engineering**
+- Spring Boot Framework
+- RESTful API Development
+- Microservices Architecture
+- MySQL & PostgreSQL
+- Redis Caching
+- Docker & Kubernetes
+
+**Android Development**
+- Kotlin & Java
+- MVVM Architecture
+- Jetpack Components
+- Room Database
+- Retrofit & API Integration
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 AI & Machine Learning
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="60">
+
+**Deep Learning**
+- TensorFlow & Keras
+- PyTorch
+- Neural Networks (CNN/RNN)
+- Transfer Learning
+- Model Optimization
+- Production Deployment
+
+**Computer Vision**
+- OpenCV
+- Image Classification
+- Object Detection
+- Face Recognition
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<h2 align="center">
+  🌟 FEATURED PROJECTS
+</h2>
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abhay9889&repo=Abhay9889&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Abhay9889/Abhay9889)
+
+<br>
+
+[![Explore Repositories](https://img.shields.io/badge/🚀_Explore_All_Projects-F85D7F?style=for-the-badge&logoColor=white)](https://github.com/Abhay9889?tab=repositories)
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  💬 DEVELOPER QUOTES
+</h2>
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler)
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">
+  📫 LET'S CONNECT
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/Abhay9889">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/aditya_50">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br><br>
 
-### 🎯 CURRENT STATUS
-
-yaml
-💼 Role: CS Student & Developer
-🌱 Learning: Advanced Deep Learning
-🔭 Working On: AI-Powered Android App
-💬 Ask Me About: Java, DSA, ML, Android
-📫 Reach Me: GitHub Profile
-⚡ Fun Fact: Coffee = Code Fuel
-
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25"> **Daily Routine:**
-
-09:00 → ☕ Coffee + LeetCode
-12:00 → 💻 Java Development
-15:00 → 🧠 ML Model Training
-18:00 → 📱 Android Projects
-21:00 → 📚 Learning New Tech
-
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abhay9889&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" alt="Coding Activity"/>
-
-</td>
-</tr>
-</table>
+### 💡 Open for collaborations on:
+**AI/ML Projects** • **Open Source Contributions** • **Backend Systems** • **Mobile Apps** • **Research Papers**
 
 </div>
 
 <br>
 
-## 🌟 FEATURED PROJECTS
-
-<div align="center">
-  <a href="https://github.com/Abhay9889?tab=repositories&sort=stargazers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay9889&repo=Abhay9889&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=ffffff" alt="Featured Repo"/>
-  </a>
-</div>
+---
 
 <div align="center">
   
-  [![Explore All Projects](https://img.shields.io/badge/🚀_Explore_All_Projects-667eea?style=for-the-badge&logoColor=white)](https://github.com/Abhay9889?tab=repositories)
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b5e-82fb-fcaa6f35e69f.gif" width="400">
   
-</div>
-
-<br>
-
-## 📫 CONNECT WITH ME
-
-<div align="center">
-  <a href="https://github.com/Abhay9889">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20%40Abhay9889-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhay-singh-yadav">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/aditya_50">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20%40aditya__50-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4b5e-82fb-fcaa6f35e69f.gif" width="500">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" width="40">
+  <br><br>
   
-  ### 💙 Thank You For Visiting!
-  
-  **"First, solve the problem. Then, write the code."** - *John Johnson*
+  ### ⭐ If you find my work interesting, consider giving a star!
   
   <br>
   
-  ### ⭐ If you like my work, consider giving a star to my repositories!
+  **Made with ❤️ by Abhay Singh Yadav**
   
   <br>
   
-  ![](https://komarev.com/ghpvc/?username=Abhay9889&style=for-the-badge&color=667eea&label=Total+Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Abhay9889&style=for-the-badge&color=blueviolet)
   
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
