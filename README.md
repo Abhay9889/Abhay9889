@@ -1,4 +1,6 @@
-<img src="./assets/banner.svg" width="100%" alt="Abhay Singh Yadav"/>
+<!-- ═══ ABHAY SINGH YADAV · PROFILE README (single file, no extra assets) ═══ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05071a,50:0d47a1,100:e040fb&height=260&section=header&text=ABHAY%20SINGH%20YADAV&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Android%20▸%20Spring%20Boot%20▸%20Neural%20Nets%20▸%20Edge&descAlignY=62&descSize=18&descColor=b2ebf2&animation=fadeIn" width="100%" alt="Abhay Singh Yadav"/>
 
 <div align="center">
 
@@ -11,7 +13,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5&height=3&section=header" width="100%"/>
 
 ## `$ whoami`
 
@@ -32,11 +34,9 @@ abhay@earth:~$ ./what-makes-me-different.sh
 > I do all three, end to end.
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
-
 ## 🛰️ The Signal Path: how I build
 
-Every product I make follows one loop: **a phone captures, a backend orchestrates, a model decides, the edge answers.**
+Every product follows one loop: **a phone captures, a backend orchestrates, a model decides, the edge answers.**
 
 ```mermaid
 flowchart LR
@@ -50,9 +50,7 @@ flowchart LR
     class A,B,C,D,E,F n;
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
-
-## 🚀 Missions (what I'm building)
+## 🚀 Missions
 
 | Mission | What it does | Stack | Status |
 |:--|:--|:--|:--:|
@@ -60,9 +58,7 @@ flowchart LR
 | 🏙️ **UrbanPulse** | Civic platform connecting citizens and city issues | `Kotlin` `Spring Boot` `PostgreSQL` | 🟡 building |
 | 🧰 **Open-source ML toolkits** | Reusable utilities for training and evaluation | `Python` `PyTorch` | 🟢 ongoing |
 
-> ✏️ *Tip: link each mission to its repo, add a screenshot or GIF, and one measurable result (e.g. "92% mAP", "cut latency 40%"). That is what turns a profile into an interview.*
-
-<img src="./assets/divider.svg" width="100%"/>
+<!-- TODO: link each mission to its repo, add a screenshot/GIF and one measurable result (e.g. "92% mAP", "-40% latency") -->
 
 ## 🧩 Tech Layers
 
@@ -85,11 +81,7 @@ flowchart LR
 |:--|:--|:--|
 | Java, Spring Boot, Kotlin/Android, Python | TensorFlow/Keras, Docker, SQL, CNNs/LSTMs | PyTorch, Kafka, AWS, RAG, multi-agent systems |
 
-*Tiers beat percentage bars: they tell people what to ask me about.*
-
 </details>
-
-<img src="./assets/divider.svg" width="100%"/>
 
 ## 🏆 Arena
 
@@ -103,7 +95,7 @@ flowchart LR
 | **Codeforces** | Specialist | 100+ |
 
 ```mermaid
-pie showData title Where my problem-solving time goes
+pie showData title Where my problem-solving time goes (edit to match reality)
     "Arrays/Strings/Sorting" : 30
     "Trees & Graphs" : 25
     "Dynamic Programming" : 20
@@ -112,8 +104,6 @@ pie showData title Where my problem-solving time goes
 ```
 
 </div>
-
-<img src="./assets/divider.svg" width="100%"/>
 
 ## 📈 Live Telemetry
 
@@ -129,9 +119,41 @@ pie showData title Where my problem-solving time goes
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Abhay9889/Abhay9889/output/snake.svg" width="100%"/>
 </picture>
 
-</div>
+<details>
+<summary>⚙️ <b>Enable the snake (one-time setup)</b></summary>
+<br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+Create `.github/workflows/snake.yml`, then run it once from the Actions tab:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+</div>
 
 ## 🧭 Journey
 
@@ -160,8 +182,6 @@ timeline
 * e21b6ff                 learning  zero-trust security patterns
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
-
 ## 🤝 Let's Build Something
 
 <details open>
@@ -170,7 +190,7 @@ timeline
 - Wiring an Android app to a Spring Boot backend that scales
 - Shipping a CNN/YOLO model to mobile with TFLite
 - Building a RAG pipeline with LangChain
-- Cracking DSA interviews, 500+ problems of lessons learned
+- Cracking DSA interviews: lessons from 500+ problems
 
 </details>
 
@@ -185,3 +205,5 @@ timeline
 *Code with intent. Ship with pride.* 🚀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e040fb,50:0d47a1,100:05071a&height=120&section=footer&animation=twinkling" width="100%"/>
